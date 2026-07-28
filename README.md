@@ -12,7 +12,8 @@ Place `athletes.csv` under `data/` if it is not already there.
 
 ## Task Overview
 
-* Tasks 1-6 can be found in the `tpot_automl.ipynb` notebook
+* Tasks 1-8 can be found in the `tpot_automl.ipynb` notebook
+* Task 9 can be found in the `h2o_automl.ipynb` notebook
 
 ## Reproducing
 

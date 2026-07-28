@@ -1,0 +1,4 @@
+model,model_id,holdout_rmse,holdout_mae,holdout_r2,search_seconds
+H2O AutoML leader,GBM_5_AutoML_1_20260728_122203,156.77321626121994,120.03656951869218,0.686931996824637,181.62489670899998
+TPOT best (all features),tpot_fitted_pipeline,157.69678544370095,120.91069493816524,0.6832324919580228,128.427121625
+Assign1 XGBoost (reported),xgb_assign1,172.2739,132.6932,0.6254,
