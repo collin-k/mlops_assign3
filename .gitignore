@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Assignment 3 project ignores ---
+.DS_Store
+mlruns/
+data/athletes_clean.parquet
+
+# AutoML / H2O / TPOT artifacts
+h2o_log*
+*.hex
+*.zip.1
+exported_pipelines/
+tpot_*.py
+pipeline_*.py
+catboost_info/
+*.model
+*.h2o
+models/
+artifacts/
