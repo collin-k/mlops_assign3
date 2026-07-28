@@ -10,7 +10,11 @@ pip install -r requirements.txt
 
 Place `athletes.csv` under `data/` if it is not already there.
 
-## Reproduce
+## Task Overview
+
+* Tasks 1-6 can be found in the `tpot_automl.ipynb` notebook
+
+## Reproducing
 
 ```bash
 python preprocess.py
