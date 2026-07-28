@@ -1,0 +1,5 @@
+model,features,n_features,holdout_rmse,holdout_mae,holdout_r2,fit_or_search_seconds
+Assign1 XGBoost (remeasured today),"age,height,weight,gender_male",4,168.15256722507087,129.3291731149221,0.639834631388513,0.05923295899992809
+TPOT (all features),"age,height,weight,gender_male,is_experienced,has_athletic_background",6,157.69678544370095,120.91069493816525,0.6832324919580228,128.427121625
+TPOT (top 3 features),"gender_male,weight,age",3,172.09174304776633,133.21143508037142,0.6227623647873417,171.00958854100008
+Assign1 XGBoost (from previous deliverable),"age,weight,height,gender",4,172.2739,132.6932,0.6254,
