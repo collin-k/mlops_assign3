@@ -227,8 +227,8 @@ h2o_log*
 *.hex
 *.zip.1
 exported_pipelines/
-tpot_*.py
-pipeline_*.py
+/tpot_*.py
+/pipeline_*.py
 catboost_info/
 *.model
 *.h2o
