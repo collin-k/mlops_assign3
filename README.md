@@ -14,6 +14,5 @@ Place `athletes.csv` under `data/` if it is not already there.
 
 ```bash
 python preprocess.py
-jupyter lab notebooks/01_tpot_automl.ipynb
-jupyter lab notebooks/02_h2o_automl.ipynb
+jupyter lab notebooks/tpot_automl.ipynb
 ```
